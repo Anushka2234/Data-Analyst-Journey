@@ -1,0 +1,7 @@
+SID,Name,Table2.SID,Table2.Course
+1,Mayank,1,A
+1,Mayank,1,B
+2,Raj,2,A
+3,Nitin,3,C
+,Rajat,,A
+,Rajat,,B
